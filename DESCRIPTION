@@ -77,4 +77,4 @@ Roxygen: list(markdown = TRUE, roclets=c('rd', 'collate',
     'namespace'))
 RoxygenNote: 7.2.3
 Remotes:
-    Remotes: cran/distributional@0.3.2
+    cran/distributional@0.3.2
